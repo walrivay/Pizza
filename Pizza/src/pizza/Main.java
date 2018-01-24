@@ -6,7 +6,7 @@ public class Main {
 		
 		Pizza pie = new Pizza("traditional", "pepperoni & sausage", "large");
 
-		pie.print();
+		
 		pie.eat();
 
 	}
